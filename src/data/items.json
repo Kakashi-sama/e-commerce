@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 999.99,
+      "imageUrl": "/imgs/Laptop.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 699.99,
+      "imageUrl": "/imgs/smartphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 199.99,
+      "imageUrl": "/imgs/headphones.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 299.99,
+      "imageUrl": "/imgs/smartwatch.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Tablet",
+      "price": 499.99,
+      "imageUrl": "/imgs/tablet.jpg"
+    }
+  ]
+  
